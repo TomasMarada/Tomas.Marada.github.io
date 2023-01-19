@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Terminal</title>
+    <link>https://tomas.marada.cz/</link>
+    <description>Recent content in Index on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Tomáš Marada</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tomas.marada.cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main</title>
+      <link>https://tomas.marada.cz/main/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomas.marada.cz/main/</guid>
+      <description>Main</description>
+      <content>&lt;p&gt;&lt;strong&gt;Main&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://tomas.marada.cz/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomas.marada.cz/home/</guid>
+      <description>Jmenuji se Tomáš Marada a jsem doktorem na Fakultě strojní, Vysokého učení technického v Brně.
+Mám širokou škálu zájmů. Zvláště mě zajímá programování, umělá inteligence a automatizace.</description>
+      <content>&lt;div class=&#34;post-content&#34;&gt;
+&lt;style scoped=&#34;&#34;&gt; #profile {
+    background-image: url(&#39;/img/foto_marada_resized.jpg&#39;);
+    display: block;
+    float: left;
+    width:250px;
+    height:321px;
+    margin-right:12px;
+    margin-top:2px;
+    margin-bottom:6px;
+    background-position: center;
+    background-size: cover;
+}
+
+&lt;/style&gt;
+  &lt;div id=&#34;profile&#34;&gt;&lt;/div&gt;
+  &lt;p&gt;Jmenuji se Tomáš Marada a jsem doktorem na Fakultě strojní, Vysokého učení technického v Brně.&lt;/p&gt;
+  &lt;p&gt;Mám širokou škálu zájmů. Zvláště mě zajímá programování, umělá inteligence a automatizace.&lt;/p&gt;
+&lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://tomas.marada.cz/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomas.marada.cz/contact/</guid>
+      <description>Tento kontaktní formulář používá technologie třetích stran. V případě problému, Vám doporučují kontaktovat mne jiným způsobem.
+Jméno a příjmení:
+Email:
+Text zprávy:
+Odeslat </description>
+      <content>&lt;p&gt;Tento kontaktní formulář používá technologie třetích stran. V případě problému, Vám doporučují kontaktovat mne jiným způsobem.&lt;/p&gt;
+&lt;form method=&#34;post&#34; action=&#34;https://forms.un-static.com/forms/9b0b3cd4de21ea507afab385d118270be53edbb4&#34;&gt;
+&lt;p&gt;
+  Jméno a příjmení:&lt;br&gt;
+  &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;povinné&#34; style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34; required&gt;
+&lt;/p&gt;
+&lt;p class=&#34;input&#34;&gt;
+  Email:&lt;br&gt;
+  &lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;povinné&#34;
+ style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34;
+   required&gt;
+&lt;/p&gt;
+&lt;p class=&#34;textarea&#34;&gt;
+  Text zprávy:&lt;br&gt;
+  &lt;textarea name=&#34;message&#34; cols=&#34;40&#34; rows=&#34;5&#34; style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34;&gt;&lt;/textarea&gt;
+&lt;/p&gt;
+&lt;p class=&#34;botton select&#34;&gt;
+  &lt;button type=&#34;submit&#34; style=&#34;border:solid 1px #c9c9c9;padding:10px&#34; &gt;Odeslat&lt;/button&gt;
+&lt;/p&gt;
+&lt;/form&gt;</content>
+    </item>
+    
+    <item>
+      <title>Tomáš Marada</title>
+      <link>https://tomas.marada.cz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomas.marada.cz/about/</guid>
+      <description>Na této stránce můžete najít můj životopis a také další informace o mně, projektech, zkušenostech, dovednostech a jazycích, které ovládám.
+O mně Jmenuji se Tomáš Marada.
+V současné době pracuji jako odborný asistent na Fakultě strojního inženýrství Vysokého učení technické v Brně, Ústav výrobních strojů, systémů a robotiky, odbor elektrotechniky.
+Fakulta strojního inženýrství je s více než 4 200 studenty největší strojní fakultou v ČR a také nejlépe hodnocenou fakultou zaměstnavateli z hlediska kvality přípravy absolventů.</description>
+      <content>&lt;p&gt;Na této stránce můžete najít můj &lt;strong&gt;&lt;a href=&#34;https://google.com&#34; title=&#34;Životopis, Tomáš Marada&#34;&gt;životopis&lt;/a&gt;&lt;/strong&gt; a také další informace o mně, projektech, zkušenostech, dovednostech a jazycích, které ovládám.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;o-mně&#34;&gt;O mně&lt;/h1&gt;
+&lt;p&gt;Jmenuji se &lt;strong&gt;Tomáš Marada&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;V současné době pracuji jako odborný asistent na Fakultě strojního inženýrství Vysokého učení technické v Brně, Ústav výrobních strojů, systémů a robotiky, odbor elektrotechniky.&lt;/p&gt;
+&lt;p&gt;Fakulta strojního inženýrství je s více než 4 200 studenty největší strojní fakultou v ČR a také nejlépe hodnocenou fakultou zaměstnavateli z hlediska kvality přípravy absolventů.&lt;/p&gt;
+&lt;p&gt;Mám širokou škálu zájmů, mimo jiné:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inženýrství
+&lt;ul&gt;
+&lt;li&gt;CAD&lt;/li&gt;
+&lt;li&gt;3D tisk&lt;/li&gt;
+&lt;li&gt;Robotika&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Informatika a počítače
+&lt;ul&gt;
+&lt;li&gt;Automatizace&lt;/li&gt;
+&lt;li&gt;Strojové učení&lt;/li&gt;
+&lt;li&gt;Programování&lt;/li&gt;
+&lt;li&gt;Počítačové sítě&lt;/li&gt;
+&lt;li&gt;Servery&lt;/li&gt;
+&lt;li&gt;Open Source Software&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chcete-li mě kontaktovat, přejděte na kontaktní stránku nebo se podívejte na můj LinkedIn.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;dosažené-vzdělání&#34;&gt;Dosažené vzdělání&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2001-2004&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VUT Brno - Fakulta strojního inženýrství. Doktorské studium - xxx&lt;/li&gt;
+&lt;li&gt;Obhájena disertační práce - udělen titul Ph.D. (20.12.2004)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1996-2001&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VUT Brno - Fakulta strojního inženýrství, obor : Inženýrská automatizace a informatika, specializace informatika.&lt;/li&gt;
+&lt;li&gt;Téma DP : „ xxx ” s hodnocením „Výborně“&lt;/li&gt;
+&lt;li&gt;Obhájena diplomová práce - udělen titul Ing. (20.6.2001)&lt;/li&gt;
+&lt;li&gt;Ukončeno SZZ s hodnocením „Výborně“ (20.6.2001)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1991-1995&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrovaná Střední Škola, Olomoucká 61, Brno, obor: Mechanik elektronik pro organizační a výpočetní techniku&lt;/li&gt;
+&lt;li&gt;Ukončeno maturitní zkouškou&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;akadamická-kariéra&#34;&gt;Akadamická kariéra&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;publikace&#34;&gt;Publikace&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;ostatní-dovednosti&#34;&gt;Ostatní dovednosti&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Vyhláška elektrotechnické kvalifikace (vyhl.50/1978 Sb.) § 8
+&lt;ul&gt;
+&lt;li&gt;Platnost od: 20.02.2022&lt;/li&gt;
+&lt;li&gt;Platnost do: 20.02.2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sběrnice KNX/EIB - KNX partner (certifikát)&lt;/li&gt;
+&lt;li&gt;Znalost jazyka ANSI-C, Matlab/Octave, Python, PHP&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
