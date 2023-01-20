@@ -1,43 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Terminal</title>
-    <link>https://tomas.marada.cz/</link>
-    <description>Recent content in Index on Terminal</description>
+    <title>Zalohas on Terminal</title>
+    <link>https://tomas.marada.cz/zaloha/</link>
+    <description>Recent content in Zalohas on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2023 Tomáš Marada</copyright><atom:link href="https://tomas.marada.cz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dosažené vzdělání</title>
-      <link>https://tomas.marada.cz/vzdelani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomas.marada.cz/vzdelani/</guid>
-      <description>2001-2004 Doktorské studium
-VUT v Brně - Fakulta strojního inženýrství, Ústav mechaniky těles, mechatroniky a biomechaniky Téma Disertační práce : „Řízení přechodových stavů asynchronního elektromotoru založené na Q-Učení” Obhájena disertační práce, udělen titul Ph.D. (20.12.2004) 1996-2001 Magisterské studium
-VUT v Brně, Fakulta strojního inženýrství, Ústav automatizace a informatiky, specializace Informatika. Téma diplomové práce : „Využití Q-učení pro řízení přechodových stavů asynchronního elektromotoru” s hodnocením „Výborně“ Ukončeno SZZ s hodnocením „Výborně“ Obhájena diplomová práce - udělen titul Ing.</description>
-      <content>&lt;p&gt;&lt;strong&gt;2001-2004&lt;/strong&gt; Doktorské studium&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VUT v Brně - Fakulta strojního inženýrství, Ústav mechaniky těles, mechatroniky a biomechaniky&lt;/li&gt;
-&lt;li&gt;Téma Disertační práce : „Řízení přechodových stavů asynchronního elektromotoru založené na Q-Učení”&lt;/li&gt;
-&lt;li&gt;Obhájena disertační práce, udělen titul Ph.D. (20.12.2004)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;1996-2001&lt;/strong&gt; Magisterské studium&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VUT v Brně, Fakulta strojního inženýrství, Ústav automatizace a informatiky, specializace Informatika.&lt;/li&gt;
-&lt;li&gt;Téma diplomové práce : „Využití Q-učení pro řízení přechodových stavů asynchronního elektromotoru” s hodnocením „Výborně“&lt;/li&gt;
-&lt;li&gt;Ukončeno SZZ s hodnocením „Výborně“&lt;/li&gt;
-&lt;li&gt;Obhájena diplomová práce - udělen titul Ing. (20.6.2001)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;1991-1995&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Integrovaná Střední Škola, Olomoucká 61, Brno, obor: Mechanik elektronik pro organizační a výpočetní techniku&lt;/li&gt;
-&lt;li&gt;Ukončeno maturitní zkouškou&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</content>
-    </item>
-    
+    <copyright>Copyright © 2023 Tomáš Marada</copyright><atom:link href="https://tomas.marada.cz/zaloha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
       <link>https://tomas.marada.cz/zaloha/home/</link>
@@ -65,39 +34,6 @@ Mám širokou škálu zájmů. Zvláště mě zajímá programování, umělá i
   &lt;p&gt;Jmenuji se Tomáš Marada a jsem doktorem na Fakultě strojní, Vysokého učení technického v Brně.&lt;/p&gt;
   &lt;p&gt;Mám širokou škálu zájmů. Zvláště mě zajímá programování, umělá inteligence a automatizace.&lt;/p&gt;
 &lt;/div&gt;</content>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://tomas.marada.cz/kontakt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomas.marada.cz/kontakt/</guid>
-      <description>Tento kontaktní formulář používá technologie třetích stran. V případě problému, Vám doporučují kontaktovat mne jiným způsobem.
-Jméno a příjmení:
-Email:
-Text zprávy:
-Odeslat </description>
-      <content>&lt;p&gt;Tento kontaktní formulář používá technologie třetích stran. V případě problému, Vám doporučují kontaktovat mne jiným způsobem.&lt;/p&gt;
-&lt;form method=&#34;post&#34; action=&#34;https://forms.un-static.com/forms/9b0b3cd4de21ea507afab385d118270be53edbb4&#34;&gt;
-&lt;p&gt;
-  Jméno a příjmení:&lt;br&gt;
-  &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;povinné&#34; style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34; required&gt;
-&lt;/p&gt;
-&lt;p class=&#34;input&#34;&gt;
-  Email:&lt;br&gt;
-  &lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;povinné&#34;
- style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34;
-   required&gt;
-&lt;/p&gt;
-&lt;p class=&#34;textarea&#34;&gt;
-  Text zprávy:&lt;br&gt;
-  &lt;textarea name=&#34;message&#34; cols=&#34;40&#34; rows=&#34;5&#34; style=&#34;background-color:inherit;border:solid 1px #c9c9c9&#34;&gt;&lt;/textarea&gt;
-&lt;/p&gt;
-&lt;p class=&#34;botton select&#34;&gt;
-  &lt;button type=&#34;submit&#34; style=&#34;border:solid 1px #c9c9c9;padding:10px&#34; &gt;Odeslat&lt;/button&gt;
-&lt;/p&gt;
-&lt;/form&gt;</content>
     </item>
     
     <item>

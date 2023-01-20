@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomas.marada.cz/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomas.marada.cz/main/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomas.marada.cz/categories/</loc>
   </url><url>
-    <loc>https://tomas.marada.cz/home/</loc>
+    <loc>https://tomas.marada.cz/vzdelani/</loc>
+  </url><url>
+    <loc>https://tomas.marada.cz/zaloha/home/</loc>
+  </url><url>
+    <loc>https://tomas.marada.cz/</loc>
   </url><url>
     <loc>https://tomas.marada.cz/kontakt/</loc>
   </url><url>
     <loc>https://tomas.marada.cz/tags/</loc>
   </url><url>
-    <loc>https://tomas.marada.cz/about/</loc>
+    <loc>https://tomas.marada.cz/zaloha/about/</loc>
+  </url><url>
+    <loc>https://tomas.marada.cz/zaloha/</loc>
   </url>
 </urlset>
